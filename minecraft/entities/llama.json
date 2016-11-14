@@ -1,7 +1,7 @@
 {
     "pools": [
         {
-            "rolls": 1,
+            "rolls": 2,
             "entries": [
                 {
                     "type": "item",
@@ -24,6 +24,21 @@
                     ]
                 }
             ]
-        }
+        },
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "minecraft:experience_bottle",
+					"weight": 1,
+					"conditions": [
+						{
+							"condition": "killed_by_player"
+						}
+					]
+				}
+			]
+		}
     ]
 }
