@@ -14,3 +14,11 @@ if someone else is joining in, to give them a bonus chest use the following comm
 /give PLAYER chest 1 0 {BlockEntityTag:{LootTable:"minecraft:chests/spawn_bonus_chest"}}
 
 https://www.reddit.com/r/Minecraft/comments/4j6t7f/how_to_bonus_chest_for_each_player_on_a_server/
+
+other ideas
+starting difficulty could be easy and then increase it as time goes on
+maybe increase to normal when you have full iron armor or something
+
+
+enderdragon
+/entitydata @e[type=EnderDragon,tag=!processed] {DeathLootTable:"custom:enderdragon",Tags:["processed"]}
