@@ -79,15 +79,9 @@ Lapis Lazuli Ore | 5 | (default: 1)
 - random_chance_with_looting for iron ingot, carrot, and potato was set to 0.05 (was 0.025)
 - Has 2 rolls for experience bottles if the player killed the mob
 
-###Custom Loot Tables
-**enderdragon** (workaround for bug in 1.10.2, will not be needed in 1.11)
-- Guaranteed to drop Elytra wings
-- Drops 10 experience potions
-
 ###Ideas/Todo
 - Add seeds to zombie?
 - Add Woodland and Ocean Exploration Maps to bonus chest (1.11)
-- Add two ender chests to ender dragon loot table (will not revisit until 1.11)
 - Add map to bonus chest? (like console version)
 - Guaranteed stone tools in bonus chest?
 - https://www.reddit.com/r/Minecraft/comments/54rlur/small_vanilla_custom_dungeon_chest_loot_pack/
