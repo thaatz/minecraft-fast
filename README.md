@@ -24,6 +24,8 @@ enderdragon
 `/entitydata @e[type=EnderDragon,tag=!processed] {DeathLootTable:"custom:enderdragon",Tags:["processed"]}`
 
 ###Recommended World Options
+Cheats and bonus chest on
+
 **World Type:** Customized
 
 Setting | Value | Change
@@ -52,3 +54,7 @@ Lapis Lazuli Ore | 5 | (default: 1)
 - Drop rolls doulbed (now 2, was 1)
 - Percent chance drops doubled (now 0.5 was 0.25)
 - Has 2 rolls for experience bottles if the player killed the mob
+
+####Ideas/Todo
+- Add shulker box to bonus chest (1.11)
+- Add Woodland and Ocean Exploration Maps to bonus chest (1.11)
