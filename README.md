@@ -66,6 +66,10 @@ Lapis Lazuli Ore | 5 | (default: 1)
 - Drops 1-3 enderpearls (was 0-1)
 - Has 2 rolls for experience bottles if the player killed the mob
 
+**skeleton**
+- Drops 1-4 arrows (was 0-2)
+- Has 2 rolls for experience bottles if the player killed the mob
+
 **slime**
 - Drop rolls doubled (now 2, was 1)
 - Has 1 roll for experience bottles if a player killed the mob
