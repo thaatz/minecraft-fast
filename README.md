@@ -36,6 +36,8 @@ Redstone Ore | 16 | (default: 8)
 Diamond Ore | 5 | (default: 1)
 Lapis Lazuli Ore | 5 | (default: 1)
 
+**Another suggestion** for really casual play, you could toggle keeping of inventories by using the command `/gamerule keepInventory true`
+
 ##Changes
 ###Chests
 **spawn_bonus_chest**
