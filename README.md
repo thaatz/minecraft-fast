@@ -46,18 +46,27 @@ Lapis Lazuli Ore | 5 | (default: 1)
 
 *all other chests are the same*
 ###Entities
-**neutral mobs** includes chicken, cow, horse, mushroom cow, ocelot, pig ,polar bear, rabbit, sheep, squid, stray, wolf
+**neutral mobs** includes chicken, cow, donkey, horse, llama, mule, mushroom cow, ocelot, pig ,polar bear, rabbit, sheep, snowman, squid, wolf
 - Drop rolls doulbed (now 2, was 1)
 - Has 1 roll for experience bottles if a player killed the mob
 
-**hostile mobs** includes blaze, creeper, elder guardian, enderman, endermite, ghast, guardian, iron golem, magma cube, silverfish, skeleton, skelton horse, slime, spider, wolf, wither skeleton, zombie, zombie horse, zombie pigman
+**hostile mobs** includes blaze, cave_spider, creeper, elder guardian, enderman, endermite, ghast, guardian, iron golem, magma_cube, silverfish, skeleton, skelton horse, slime, spider, stray, vindication_illager, wither_skeleton, zombie_horse, zombie_pigman
 - Drop rolls doulbed (now 2, was 1)
-- Percent chance drops doubled (now 0.05 was 0.025)
+- Percent chance drops doubled (now 0.05 was 0.025) (applies to wither_skeleton, zombie, zombie_villager)
 - Has 2 rolls for experience bottles if the player killed the mob
 
-**zombie**
-- Rotten flesh drop rate is x1.5. Drops 0-3 pieces (was 0-2)
+**slime**
+- Drop rolls doubled (now 2, was 1)
+- Has 1 roll for experience bottles if a player killed the mob
+
+**witch**
+- Drop rolls doubled (now 2-6, was 1-3)
+- Has 2 rolls for experience bottles if the player killed the mob
+
+**zombie and zombie_villager**
+- Rotten flesh drop rate is 1.5x. Drops 0-3 pieces (was 0-2)
 - random_chance_with_looting for iron ingot, carrot, and potato was set to 0.05 (was 0.025)
+- Has 2 rolls for experience bottles if the player killed the mob
 
 ###Custom Loot Tables
 **enderdragon** (workaround for bug in 1.10.2, will not be needed in 1.11)
