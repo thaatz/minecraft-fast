@@ -42,6 +42,7 @@ Lapis Lazuli Ore | 5 | (default: 1)
 ###Chests
 **spawn_bonus_chest**
 - Food rolls were doubled (now 6, was 3)
+- Chest now includes one purple shulker box
 - Chest always includes two villager eggs
 
 *all other chests are the same*
@@ -53,6 +54,16 @@ Lapis Lazuli Ore | 5 | (default: 1)
 **hostile mobs** includes blaze, cave_spider, creeper, elder guardian, enderman, endermite, ghast, guardian, iron golem, magma_cube, silverfish, skeleton, skelton horse, slime, spider, stray, vindication_illager, wither_skeleton, zombie_horse, zombie_pigman
 - Drop rolls doulbed (now 2, was 1)
 - Percent chance drops doubled (now 0.05 was 0.025) (applies to wither_skeleton, zombie, zombie_villager)
+- Has 2 rolls for experience bottles if the player killed the mob
+
+**ender_dragon**
+- Drops 1-3 elytra wings
+- Drops dragon head
+- Drops 10 experience bottles
+- Drops 2 ender chests
+
+**enderman**
+- Drops 1-3 enderpearls (was 0-1)
 - Has 2 rolls for experience bottles if the player killed the mob
 
 **slime**
@@ -74,9 +85,7 @@ Lapis Lazuli Ore | 5 | (default: 1)
 - Drops 10 experience potions
 
 ###Ideas/Todo
-- Further increase enderman enderpearl drop rate to 3 or 4 rolls (now 2, was 1)
 - Add seeds to zombie?
-- Add shulker box to bonus chest (1.11)
 - Add Woodland and Ocean Exploration Maps to bonus chest (1.11)
 - Add two ender chests to ender dragon loot table (will not revisit until 1.11)
 - Add map to bonus chest? (like console version)
