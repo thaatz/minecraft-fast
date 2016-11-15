@@ -83,6 +83,11 @@ Lapis Lazuli Ore | 5 | 5x (default: 1)
 - random_chance_with_looting for iron ingot, carrot, and potato was set to 0.05 (was 0.025)
 - Has 2 rolls for experience bottles if the player killed the mob
 
+###Fishing
+- Fish rolls doubled
+- Junk rolls are the same
+- Treasure rolls doubled
+
 ###Ideas/Todo
 - Add seeds to zombie?
 - Add Woodland and Ocean Exploration Maps to bonus chest (1.11)
