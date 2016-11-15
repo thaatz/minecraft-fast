@@ -28,13 +28,13 @@ Cheats and bonus chest on
 
 Setting | Value | Change
 --- | --- | ---
-Dungeon Count | 100 | (default: 7)
-Coal Ore | 40 | (default: 20)
-Iron Ore | 40 | (default: 20)
-Gold Ore | 4 | (default: 2)
-Redstone Ore | 16 | (default: 8)
-Diamond Ore | 5 | (default: 1)
-Lapis Lazuli Ore | 5 | (default: 1)
+Dungeon Count | 100 | 14.3x (default: 7)
+Coal Ore | 40 | 2x (default: 20)
+Iron Ore | 40 | 2x (default: 20)
+Gold Ore | 4 | 2x (default: 2)
+Redstone Ore | 16 | 2x (default: 8)
+Diamond Ore | 5 | 5x (default: 1)
+Lapis Lazuli Ore | 5 | 5x (default: 1)
 
 **Another suggestion** for really casual play, you could toggle keeping of inventories by using the command `/gamerule keepInventory true`
 
@@ -48,11 +48,11 @@ Lapis Lazuli Ore | 5 | (default: 1)
 *all other chests are the same*
 ###Entities
 **neutral mobs** includes chicken, cow, donkey, horse, llama, mule, mushroom cow, ocelot, pig ,polar bear, rabbit, sheep, snowman, squid, wolf
-- Drop rolls doulbed (now 2, was 1)
+- Drop rolls doubled (now 2, was 1)
 - Has 1 roll for experience bottles if a player killed the mob
 
 **hostile mobs** includes blaze, cave_spider, creeper, elder guardian, enderman, endermite, ghast, guardian, iron golem, magma_cube, silverfish, skeleton, skelton horse, slime, spider, stray, vindication_illager, wither_skeleton, zombie_horse, zombie_pigman
-- Drop rolls doulbed (now 2, was 1)
+- Drop rolls doubled (now 2, was 1)
 - Percent chance drops doubled (now 0.05 was 0.025) (applies to wither_skeleton, zombie, zombie_villager)
 - Has 2 rolls for experience bottles if the player killed the mob
 
