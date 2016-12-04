@@ -44,6 +44,7 @@ Lapis Lazuli Ore | 5 | 5x (default: 1)
 - Food rolls were doubled (now 6, was 3)
 - Chest now includes one purple shulker box
 - Chest always includes two villager eggs
+- Chest always includes one bed
 
 *all other chests are the same*
 ###Entities
