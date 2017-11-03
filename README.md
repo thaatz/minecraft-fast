@@ -1,5 +1,6 @@
-#fastcraft
-###Purpose
+# fastcraft
+updated for minecraft 1.11
+### Purpose
 This is supposed to be a faster version of minecraft in that it is intended to have a lot less grinding involved.
 
 what is in here is modified loot tables
@@ -21,7 +22,7 @@ maybe increase to normal when you have full iron armor or something
 enderdragon
 `/entitydata @e[type=EnderDragon,tag=!processed] {DeathLootTable:"custom:enderdragon",Tags:["processed"]}`
 
-###Recommended World Options
+### Recommended World Options
 Cheats and bonus chest on
 
 **World Type:** Customized
@@ -38,8 +39,8 @@ Lapis Lazuli Ore | 5 | 5x (default: 1)
 
 **Another suggestion** for really casual play, you could toggle keeping of inventories by using the command `/gamerule keepInventory true`
 
-##Changes
-###Chests
+## Changes
+### Chests
 **spawn_bonus_chest**
 - Food rolls were doubled (now 6, was 3)
 - Chest now includes one purple shulker box
@@ -47,7 +48,7 @@ Lapis Lazuli Ore | 5 | 5x (default: 1)
 - Chest always includes one bed
 
 *all other chests are the same*
-###Entities
+### Entities
 **neutral mobs** includes chicken, cow, donkey, horse, llama, mule, mushroom cow, ocelot, pig ,polar bear, rabbit, sheep, snowman, squid, wolf
 - Drop rolls doubled (now 2, was 1)
 - Has 1 roll for experience bottles if a player killed the mob
@@ -84,12 +85,12 @@ Lapis Lazuli Ore | 5 | 5x (default: 1)
 - random_chance_with_looting for iron ingot, carrot, and potato was set to 0.05 (was 0.025)
 - Has 2 rolls for experience bottles if the player killed the mob
 
-###Fishing
+### Fishing
 - Fish rolls doubled
 - Junk rolls are the same
 - Treasure rolls doubled
 
-###Ideas/Todo
+### Ideas/Todo
 - Add seeds to zombie?
 - Add Woodland and Ocean Exploration Maps to bonus chest (1.11)
 - Add map to bonus chest? (like console version)
