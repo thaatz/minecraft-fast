@@ -100,3 +100,4 @@ Lapis Lazuli Ore | 5 | 5x (default: 1)
 - https://www.reddit.com/r/Minecraft/comments/3qou13/loot_tables_ideas_heres_some_of_mine_what_are/
 - Reduce coal settings to 30 (now 40, was 20)
 - Reduce lapis settings to 4 (now 5, was 1)
+- add easymode items like feather falling boots and a fishing rod with mending?
