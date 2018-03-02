@@ -31,7 +31,7 @@
             ]
         },
         {
-            "rolls": 6,
+            "rolls": 3,
             "entries": [
                 {
                     "type": "item",
@@ -41,8 +41,8 @@
                         {
                             "function": "minecraft:set_count",
                             "count": {
-                                "min": 1,
-                                "max": 2
+                                "min": 2,
+                                "max": 4
                             }
                         }
                     ]
@@ -55,8 +55,8 @@
                         {
                             "function": "minecraft:set_count",
                             "count": {
-                                "min": 1,
-                                "max": 2
+                                "min": 2,
+                                "max": 4
                             }
                         }
                     ]
@@ -73,8 +73,8 @@
                         {
                             "function": "minecraft:set_count",
                             "count": {
-                                "min": 1,
-                                "max": 2
+                                "min": 2,
+                                "max": 4
                             }
                         }
                     ]
@@ -185,6 +185,64 @@
 					]
 				}
 			]
+		},
+		{
+		  "rolls": 1,
+		  "entries": [
+			{
+			  "type": "item",
+			  "name": "minecraft:enchanted_book",
+			  "weight": 1,
+			  "functions": [
+				{
+				  "function": "enchant_with_levels",
+				  "treasure": true,
+				  "levels": 10
+				},
+				{
+				  "function": "enchant_randomly",
+				  "enchantments": [
+					"feather_falling"
+				  ]
+				},
+				{
+				  "function": "enchant_randomly",
+				  "enchantments": [
+					"mending"
+				  ]
+				}
+			  ]
+			}
+		  ]
+		},
+		{
+		  "rolls": 1,
+		  "entries": [
+			{
+			  "type": "item",
+			  "name": "minecraft:enchanted_book",
+			  "weight": 1,
+			  "functions": [
+				{
+				  "function": "enchant_with_levels",
+				  "treasure": true,
+				  "levels": 10
+				},
+				{
+				  "function": "enchant_randomly",
+				  "enchantments": [
+					"luck_of_the_sea"
+				  ]
+				},
+				{
+				  "function": "enchant_randomly",
+				  "enchantments": [
+					"mending"
+				  ]
+				}
+			  ]
+			}
+		  ]
 		}
     ]
 }
