@@ -37,15 +37,26 @@ Redstone Ore | 16 | 2x (default: 8)
 Diamond Ore | 5 | 5x (default: 1)
 Lapis Lazuli Ore | 5 | 5x (default: 1)
 
+Setting (wip) | Value | Change
+--- | --- | ---
+Dungeon Count | 100 | 14.3x (default: 7)
+Coal Ore | 40 | 1.5x (default: 20)
+Iron Ore | 40 | 1.5x (default: 20)
+Gold Ore | 4 | 2x (default: 2)
+Redstone Ore | 16 | 1.5x (default: 8)
+Diamond Ore | 5 | 5x (default: 1)
+Lapis Lazuli Ore | 5 | 4x (default: 1)
+
 **Another suggestion** for really casual play, you could toggle keeping of inventories by using the command `/gamerule keepInventory true`
 
 ## Changes
 ### Chests
 **spawn_bonus_chest**
-- Food rolls were doubled (now 6, was 3)
+- Food is doubled
 - Chest now includes one purple shulker box
-- Chest always includes two villager eggs
-- Chest always includes one bed
+- Chest always includes three wool
+- Chest includes feather falling enchanting book and luck of the sea enchanting book (random levels)
+- 1.12.2 seems to have broken set_nbt tags for villager eggs, so use /give <playername> spawn_egg 2 0 {EntityTag:{id:"minecraft:villager"}} if you need two eggs
 
 *all other chests are the same*
 ### Entities
@@ -100,4 +111,4 @@ Lapis Lazuli Ore | 5 | 5x (default: 1)
 - https://www.reddit.com/r/Minecraft/comments/3qou13/loot_tables_ideas_heres_some_of_mine_what_are/
 - Reduce coal settings to 30 (now 40, was 20)
 - Reduce lapis settings to 4 (now 5, was 1)
-- add easymode items like feather falling boots and a fishing rod with mending?
+- reduce zombie flesh drop rate to 1x
