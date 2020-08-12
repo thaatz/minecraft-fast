@@ -49,6 +49,18 @@ Lapis Lazuli Ore | 5 | 4x (default: 1)
 
 **Another suggestion** for really casual play, you could toggle keeping of inventories by using the command `/gamerule keepInventory true`
 
+- maybes
+  - effects
+    - https://minecraft.gamepedia.com/Status_effect
+  - `/effect @a minecraft:haste 999999 2 true`
+    - https://www.reddit.com/r/Minecraft/comments/6gvq1a/how_do_i_give_everyone_on_my_server_haste/
+  - `/effect @a minecraft:speed 999999 2 true`
+  - `/gamerule randomtickspeed 5` (default 3)
+  - https://vanillatweaks.net/picker/datapacks/
+  - enchantments
+    - looting, unbreaking, mending, fortune
+
+
 ## Changes
 ### Chests
 **spawn_bonus_chest**
